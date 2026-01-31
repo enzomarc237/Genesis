@@ -1,0 +1,7 @@
+{
+  "name": "Project Genesis: AI Product Studio",
+  "description": "A comprehensive suite for transforming simple ideas into full-scale product documentation, PRDs, designs, and development plans using advanced Gemini 2.5 and 3 intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
